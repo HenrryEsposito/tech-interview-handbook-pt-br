@@ -1,4 +1,4 @@
-<h1 align="center">Tech Interview Handbook</h1>
+<h1 align="center">O Manual da entrevista técnica</h1>
 
 <div align="center">
   <a href="https://www.techinterviewhandbook.org/">
@@ -6,118 +6,119 @@
   </a>
   <br />
   <h3>
-    <a href="https://www.techinterviewhandbook.org/">Read on the website</a>
+    <a href="https://www.techinterviewhandbook.org/">Leia direto no site</a>
   </h3>
   <p>
-    Join/follow us on <a href="https://discord.gg/usMqNaPczq" target="_blank">Discord</a> | <a href="https://twitter.com/techinterviewhb" target="_blank">𝕏 (Twitter)</a> | <a href="https://t.me/techinterviewhandbook" target="_blank">Telegram</a> |  <a href="https://facebook.com/techinterviewhandbook" target="_blank">Facebook</a>
+    Junte-se a nós no <a href="https://discord.gg/usMqNaPczq" target="_blank">Discord</a> | <a href="https://twitter.com/techinterviewhb" target="_blank">𝕏 (Twitter)</a> | <a href="https://t.me/techinterviewhandbook" target="_blank">Telegram</a> |  <a href="https://facebook.com/techinterviewhandbook" target="_blank">Facebook</a>
   </p>
 </div>
 
 ---
 
 <a href="https://www.techinterviewhandbook.org/software-engineering-interview-guide/" target="_blank">
-  <img src="assets/start-reading-button.jpg" alt="Start Reading Tech Interview Handbook" />
+  <img src="assets/start-reading-button.jpg" alt="Começar a ler o manual da entrevista técnica." />
 </a>
 
-## What is this?
+## O que é isso?
 
-Not everyone has the time to do a few hundred LeetCode questions. Here are _free and curated_ technical interview preparation materials for busy engineers, brought to you by me, the author of [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU). Over 1,000,000 people have benefitted from this handbook!
+Nem todo mundo tem tempo de resolver algumas centenas de exercícios no LeetCode. Aqui você encontrará material, _selecionado e gratuito_, para se preparar para entrevistas técnicas, do mesmo autor de [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU). Mais de um milhão de pessoas de beneficiaram desse manual até agora!
 
-Besides the usual algorithm questions, other **awesome** stuff includes:
+Além de questões sobre algoritmos, você encontra outros materiais **incríveis** como:
 
-- [Best practice questions](https://www.techinterviewhandbook.org/coding-interview-study-plan/) for coding interviews
-- [Grind 75](https://www.techinterviewhandbook.org/grind75) - the next evolution of Blind 75, bigger and better
-- [How to prepare](https://www.techinterviewhandbook.org/coding-interview-prep/) for coding interviews
-- [Coding interview best practices](https://www.techinterviewhandbook.org/coding-interview-cheatsheet/) - Straight-to-the-point Do's and Don'ts
-- [Algorithm cheatsheets and tips](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/) categorized by topic
-- [Step-by-step Software Engineer resume guide](https://www.techinterviewhandbook.org/resume/) to prepare a FAANG-ready resume
-- [Behavioral questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/) asked by the top tech companies
-- [Front end interview preparation](https://www.frontendinterviewhandbook.com)
+- [Questões sobre boas práticas](https://www.techinterviewhandbook.org/coding-interview-study-plan/) para entrevistas técnicas
+- [Grind 75](https://www.techinterviewhandbook.org/grind75) - a evolução do  Blind 75, mais completo
+- [Como se preparar](https://www.techinterviewhandbook.org/coding-interview-prep/) para entrevistas técnicas
+- [Boas práticas durante a entrevista técnica](https://www.techinterviewhandbook.org/coding-interview-cheatsheet/) - Direto ao ponto, listando o que fazer e o que não fazer durante uma entrevista
+- [Lista de dicas sobre algoritmos](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/) organizadas por categorias
+- [Passo a passo de como montar um currículo de engenheiro de software](https://www.techinterviewhandbook.org/resume/) para te ajudar a alcançar aquela sonhada vaga em uma FAANG
+- [Perguntas comportamentais](https://www.techinterviewhandbook.org/behavioral-interview-questions/) mais comuns em entrevistas de _big techs_
+- [Questões para se preparar para vagas Front-end](https://www.frontendinterviewhandbook.com)
 
-Help from you in contributing content would be very much appreciated!
+Toda contribuição com conteúdo é bem vinda!
 
-## Why would you read this?
+## Por Que Você Deve Ler o Conteúdo Desse Repositório?
 
-This repository has **practical** content that covers all phases of a technical interview, from applying for a job to passing the interviews to offer negotiation. Technically competent candidates might still find the non-technical content helpful.
+Esse repositório traz conteúdo **prático** que cobre todas as fases de uma entrevista técnica, do momento de aplicar para um vaga, passando pela entrevista, até o momento de negociar sua remuneração. Até os profissionais mais capacitados podem tirar algum proveito dos materiais que não fazem parte de tópicos estritamente técnicos.
 
-The information in this repository is condensed. Ultimately, the key to succeeding in technical interviews is consistent practice and I don't want to bore you with too many words. I tell you the minimum you need to know on how to go about navigating the interview process, you go and practice and land your dream job.
+Todas as informações desse repositório se apresentam de forma resumida. No fim ds contas, ser bem sucedido em uma entrevista depende de prática constante e o intuito não é te entediar com muitas palavras. Aqui você encontra o mínimo necessário para passar pelo processo seletivo e o seu papel é praticar e conseguir a vaga dos seus sonhos.
 
-## Who is this for?
 
-Anybody who wants to land a job at a tech company but is new to technical interviews, seasoned engineers who have not been on the other side of the interviewing table in a while and want to get back into the game, or anyone who wants to be better at technical interviewing.
+## Para Quem Esse Conteúdo é Indicado?
+
+Qualquer um que busca uma vaga em uma empresa de tecnologia mas nunca passou por uma entrevista técnica, para desenvolvedores experientes que já não passam por processos seletivos a um tempo e querem se desafiar novamente, ou qualquer um que queria se preparar para entrevistas técnicas.
 
 ---
 
 <div align="center">
-  <h3>💡 Stop grinding mindlessly! Study coding question patterns efficiently with
-    <a href="https://designgurus.org/link/kJSIoU?url=https%3A%2F%2Fdesigngurus.org%2Fcourse%3Fcourseid%3Dgrokking-the-coding-interview">Grokking the Coding Interview</a> by Design Gurus 💡
+  <h3>💡 Pare de se esforçar sem um plano definido! Pratique com questões de coding de forma eficiente com
+    <a href="https://designgurus.org/link/kJSIoU?url=https%3A%2F%2Fdesigngurus.org%2Fcourse%3Fcourseid%3Dgrokking-the-coding-interview">_Grokking the Coding Interview_</a> por Design Gurus 💡
   </h3>
 </div>
 
 ---
 
-## How is this repository different?
+## Qual é o Diferencial Desse Repositório?
 
-There are many awesome books like "Cracking the Coding Interview" and interview-related repositories out there on GitHub, what makes this repository different? The difference is that many existing interview repositories contain mainly links to external resources whereas this repository contains top-quality curated content directly for your consumption.
+Existem livros incríveis como "Cracking the Coding Interview" outros repositórios com materiais semelhantes, mas o que torna esse repositório especial? O maior diferencial que você encontrará por aqui é o conteúdo de qualidade que já está pronto para ser consumido, diferente dos outros repositórios que em sua maioria apenas referenciam material externo.
 
-Also, existing resources focus mainly on algorithm questions and lack coverage for more domain-specific and non-technical questions. This handbook aims to cover content beyond the typical algorithmic coding questions. 😎
+Outros materiais geralmente focam em questões sobre algoritmos e falham em cobrir aspectos não técnicos do processo. Esse manual busca abordar assuntos que vão além das perguntas técnicas em uma entrevista. 😎
 
-## Looking for interview courses?
+## Procurando por Cursos Sobre Entrevistas Técnicas?
 
 ### [AlgoMonster](https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=)
 
-AlgoMonster aims to help you ace the technical interview **in the shortest time possible**. By Google engineers, AlgoMonster uses a data-driven approach to teach you the most useful key question patterns and has contents to help you quickly revise basic data structures and algorithms. Best of all, AlgoMonster is not subscription-based - pay a one-time fee and get **lifetime access**. [**Join today for a 70% discount →**](https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=)
+AlgoMonster foca em te ajudar a se preparar para entrevistas da **forma mais rápida possível**. Criado por desenvolvedores da Google, AlgoMonster usa um método focado em dados para te ensinar os padrões de perguntas mais úteis e apresenta conteúdos que vão te ajudar a revisar rapidamente detalhes sobre as estruturas de dados e algoritmos mais comuns. E o melhor de tudo, AlgoMonster não te obriga a assinar nada, você paga apenas um vez e tem **acesso vitalício**.[**Com pre hoje para ter um desconto de 70% →**](https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=)
 
 ### [Grokking the Coding Interview: Patterns for Coding Questions](https://designgurus.org/link/kJSIoU?url=https%3A%2F%2Fdesigngurus.org%2Fcourse%3Fcourseid%3Dgrokking-the-coding-interview)
 
-This course by Design Gurus expands upon the questions on the recommended practice questions but approaches the practicing from a questions pattern perspective, which is an approach I also agree with for learning and have personally used to get better at coding interviews. The course allows you to practice selected questions in Java, Python, C++, JavaScript and also provides sample solutions in those languages. **Learn and understand patterns, not memorize answers!** [**Get lifetime access today →**](https://designgurus.org/link/kJSIoU?url=https%3A%2F%2Fdesigngurus.org%2Fcourse%3Fcourseid%3Dgrokking-the-coding-interview)
+Esse curso, criado por Design Gurus, foca em questões sobre codificação para praticar, mas aborda o treinamento a partir de uma perspectiva baseada em padrões de questões, prática que eu mesmo já usei para melhorar minhas habilidades em entrevistas. Esse curso te ajuda a praticar com questões sobre Java, Python, C++ e JavaScript, te apresentando as respostas ideais para as questões. **Não apenas decore as respostas, aprenda e entenda os padrões.** [**Obtenha seu acesso vitalício hoje! →**](https://designgurus.org/link/kJSIoU?url=https%3A%2F%2Fdesigngurus.org%2Fcourse%3Fcourseid%3Dgrokking-the-coding-interview)
 
-## Looking for Front End content?
+## Procurando por Conteúdos Sobre Front-end?
 
-Front-end-related content has been moved to a separate website - [Front End Interview Handbook](https://frontendinterviewhandbook.com).
+Conteúdos sobre Front-end foram movidos para um site à parte - [Front End Interview Handbook](https://frontendinterviewhandbook.com).
 
-## Looking for System Design content?
+## Procurando por Conteúdo Sobre _System Design_?
 
-We're still working on System Design content. In the meanwhile, check out [ByteByteGo's System Design Interview course](https://bytebytego.com?fpr=techinterviewhandbook) or Design Gurus' [Grokking the System Design Interview course](https://designgurus.org/link/kJSIoU?url=https%3A%2F%2Fdesigngurus.org%2Fcourse%3Fcourseid%3Dgrokking-the-system-design-interview), which in our opinion are among the most useful resources for getting started on system design interviews preparation.
+Ainda estamos trabalhando em conteúdos sobre _System Design_, mas enquanto não temos algo para mostrar você pode conferir o curso[ByteByteGo's System Design Interview course](https://bytebytego.com?fpr=techinterviewhandbook) ou o curso criado pelo Design Gurus [Grokking the System Design Interview course](https://designgurus.org/link/kJSIoU?url=https%3A%2F%2Fdesigngurus.org%2Fcourse%3Fcourseid%3Dgrokking-the-system-design-interview), os quais, em nossa opinião, são alguns dos melhores conteúdos para você começar a se preparar para entrevistas sobre _system design_.
 
-## Contents
+## Conteúdos
 
-A [Docusaurus](https://github.com/facebook/docusaurus) website has been created to provide a better reading experience. Check out the website [here](https://www.techinterviewhandbook.org)!
+Um website [Docusaurus](https://github.com/facebook/docusaurus) foi criado para melhor experiencia de leitura. Você pode conferir [aqui](https://www.techinterviewhandbook.org)!
 
 ---
 
 <div align="center">
-  <h3>💡 Stop the grind and study with a plan! Developed by Google engineers, <a href="https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=">AlgoMonster</a> is the fastest way to get a software engineering job. <a href="https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=">Join today for a 70% discount!</a> 💡</h3>
+  <h3>💡 Para de se esforçar atoa e estude de forma planejada! Criado por desenvolvedores da Google, <a href="https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=">AlgoMonster</a> é a forma mais rápida de conquistar a sua vaga no mercado tecnológico. <a href="https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=">Compre agora com um desconto de 70%!</a> 💡</h3>
 </div>
 
 ---
 
-## Related
+## Conteúdo relacionado
 
-If you are interested in how data structures are implemented, check out [Lago](https://github.com/yangshun/lago), a Data Structures and Algorithms library for JavaScript. It is pretty much still WIP but I intend to make it into a library that can be used in production and also a reference resource for revising Data Structures and Algorithms.
+Se você tem interesse em como implementar estruturas de dados, acesse [Lago](https://github.com/yangshun/lago), uma biblioteca de algoritmos e estruturas de dados para JavaScript. Ainda está em desenvolvimento, mas pretendo torna-la uma biblioteca que possa ser usada em produção e um referência para aqueles que queiram revisar o assunto estrutura de dados e algoritmos.
 
-## Contributing
+## Contribuições
 
-There are no formal contributing guidelines at the moment as things are still in flux and we might find a better approach to structure content as we go along. You are welcome to contribute whatever you think will be helpful to fellow engineers. If you would like to contribute content for different domains, feel free to create an issue or submit a pull request and we can discuss further.
+Ainda não temos diretrizes definidas para contribuições, pois trata-se de um material que segue em construção e possivelmente modifiquemos a maneira como estruturamos o conteúdo aqui presente. Você é bem vindo para contribuir de qualquer forma que achar útil para outros desenvolvedores que consumirão esse conteúdo. Se quiser contribuir com conteúdo sobre outros domínios ainda não tratados nesse repositório, sinta-se a vontade de abrir uma _issue_ ou crie uma _pull request_ assim podemos evoluir a discussão sobre o assunto.
 
-### Contributors
+### Contribuidores
 
-This project exists thanks to all the people who contributed. [[Contribute](CONTRIBUTING.md)]. <a href="https://github.com/yangshun/tech-interview-handbook/graphs/contributors"><img src="https://opencollective.com/tech-interview-handbook/contributors.svg?width=890&button=false"></a>
+Esse projeto só existe graças ao esforço das pessoas que contribuiram com ele. [[Contribua](CONTRIBUTING.md)]. <a href="https://github.com/yangshun/tech-interview-handbook/graphs/contributors"><img src="https://opencollective.com/tech-interview-handbook/contributors.svg?width=890&button=false"></a>
 
 ### Backers
 
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/tech-interview-handbook#backer)]
+Agradecemos a todos os apoiadores! 🙏 [[Torne-se um apoiador](https://opencollective.com/tech-interview-handbook#backer)]
 
 <a href="https://opencollective.com/tech-interview-handbook#backers" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/backers.svg?width=890"></a>
 
 <a href="https://www.buymeacoffee.com/yangshun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important; width: auto !important;"></a>
 
-### Sponsors
+### Patrocinadores
 
-Support this project by becoming a sponsor. Your logo/profile picture will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/tech-interview-handbook#sponsor)]
+Apoie esse projeto se tornando um patrocinador. Seu logotipo serão mostrados aqui junto de um link para o seu website. [[Torne-se um patrocinador](https://opencollective.com/tech-interview-handbook#sponsor)]
 
 <a href="https://opencollective.com/tech-interview-handbook/sponsor/0/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/0/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/1/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/1/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/2/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/2/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/3/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/3/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/4/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/4/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/5/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/5/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/6/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/6/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/7/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/7/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/8/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/8/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/9/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/9/avatar.svg"></a>
 
-## Disclaimer
+## Licença
 
-I am providing code in the repository to you under an open source license. Because this is my personal repository, the license you receive to my code is from me and not my employer (Meta).
+Todo o código presente nesse repositório é disponibilizado para você sob a licença open source. Por se tratar de um repositório pessoal, o código e sua licença fornecidos aqui, são oferecidos por mim e não pelo meu empregador (Meta).
